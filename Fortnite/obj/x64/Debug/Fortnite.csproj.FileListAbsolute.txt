@@ -1,0 +1,12 @@
+C:\Users\david eggins\Desktop\fake anti cheat\Fortnite\bin\Debug\Fortnite.exe
+C:\Users\david eggins\Desktop\fake anti cheat\Fortnite\bin\Debug\Fortnite.pdb
+C:\Users\david eggins\Desktop\fake anti cheat\Fortnite\obj\x64\Debug\Fortnite.csproj.AssemblyReference.cache
+C:\Users\david eggins\Desktop\fake anti cheat\Fortnite\obj\x64\Debug\Fortnite.csproj.CoreCompileInputs.cache
+C:\Users\david eggins\Desktop\fake anti cheat\Fortnite\obj\x64\Debug\Fortnite.exe
+C:\Users\david eggins\Desktop\fake anti cheat\Fortnite\obj\x64\Debug\Fortnite.pdb
+C:\Ac\Fortnite\bin\Debug\Fortnite.exe
+C:\Ac\Fortnite\bin\Debug\Fortnite.pdb
+C:\Ac\Fortnite\obj\x64\Debug\Fortnite.csproj.AssemblyReference.cache
+C:\Ac\Fortnite\obj\x64\Debug\Fortnite.csproj.CoreCompileInputs.cache
+C:\Ac\Fortnite\obj\x64\Debug\Fortnite.exe
+C:\Ac\Fortnite\obj\x64\Debug\Fortnite.pdb
